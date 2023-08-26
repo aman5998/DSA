@@ -1,0 +1,12 @@
+FlowcharQuestions HW : 
+1 - Multiply 2 Numbers by taking input
+2 - Find Perimeter of a Triangle
+3 - Find Simple Interest
+4 - Find the Compound Interest
+5 - Print Counting from N to 1
+6 - Find Factorial of a Number
+7 - Check if a Number is Prime or Not
+8 - Check Valid Triangle or Not
+9 - Print max of three number
+
+HW : what is low level langugae high level language, mid level language.
