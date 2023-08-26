@@ -1,0 +1,11 @@
+After Class HW :
+1 - 32 bit vs 64 bit Architecture
+2 - TypeCasting: Implicit vs Explicit
+3 - Number System: Binary and Decimal 
+
+Class HW : 
+1 - Find out what is return 0 in the main function.
+2 - What happens
+		cout << "Aman";cout << "Gabbar";
+3 - Check signed int range & unsigned int range
+4 - Check -128, -100, -99 Mapped with which ascii value
